@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,2023-07-06 11:50:35,2023-07-06 11:50:38,2.696s,PASSED
+,,,,,,,
+Test Cases/New Test Case,,,,2023-07-06 11:50:35,2023-07-06 11:50:38,2.397s,PASSED
+"sendRequest(findTestObject(""get""))",,,,2023-07-06 11:50:36,2023-07-06 11:50:38,2.028s,PASSED
